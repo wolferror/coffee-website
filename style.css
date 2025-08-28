@@ -294,7 +294,7 @@ padding: 2.5rem;
 /*contact end*/
 /*footer starts*/
 #footer .footer-top{
-    background:url("./imgs/footer-bg.png");
+    background:url("/imgs/footer-bg.png");
     color: #fff;
 }
 #footer .footer-top .row{
@@ -346,4 +346,5 @@ margin-right: 10px;
 }
 
 /*footer end*/
+
 
